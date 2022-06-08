@@ -47,7 +47,7 @@ nav a {
 	font-weight: bold;
 	font-size: 22px;
 	text-decoration: none;
-    transition: 0.5s;
+  transition: 0.5s;
 }
 
 nav a:hover {
@@ -58,6 +58,7 @@ nav a:hover {
 
 #a__simulacao{
     animation: flashing 1s linear infinite;
+    
 }
   @keyframes flashing {
     50% {
@@ -71,13 +72,13 @@ nav a:hover {
   }
 
 footer {
-	text-align: center;
-	background: url("./.././assets/bg.jpg");
+	  text-align: center;
+	  background: url("./.././assets/bg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     margin-top: 100px;
-	padding: 40px 0;
+	  padding: 40px 0;
     display: flex;
     justify-content: center;
 }
