@@ -65,20 +65,18 @@ nav a:hover {
       opacity: .3;
       background-color: lightgreen;
     }
-    /* 20%{
-        opacity: 1;
-        background-color: white;
-    } */
+
   }
 
 footer {
 	  text-align: center;
+    background-color: #a3b18a;
 	  background: url("./.././assets/bg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     margin-top: 100px;
-	  padding: 40px 0;
+	  padding: 10px 0;
     display: flex;
     justify-content: center;
 }
@@ -86,7 +84,6 @@ footer {
 .copyright{
     background-color: rgb(255, 255, 255, 0.7);
 }
-
 
 /* scroll */
 /* width */
