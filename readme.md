@@ -4,7 +4,7 @@ Criado em 2022.
 
 Projeto elaborado pelos alunos da Instituição de Ensino UNIVERSIDADE NOVE DE JULHO:
 
-Tecnologia em Análise e Desenvolvimento de Sistema - 1º Semestre 
+Tecnologia em Análise e Desenvolvimento de Sistema - 1º Semestre
 
 Edson Moribe - RA: 3022101327
 Fabio Lopes da Silva - RA: 3022101124
